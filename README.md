@@ -15,7 +15,7 @@
 
 [Fitur](#-fitur) • [Demo](#-demo) • [Teknologi](#-teknologi) • [Instalasi](#-instalasi) • [Penggunaan](#-penggunaan) • [Kontribusi](#-kontribusi) • [Lisensi](#-lisensi)
 
-![LinkLocker DApp Screenshot](https://imgur.com/u59XzFe)
+![LinkLocker DApp Screenshot](https://imgur.com/u59XzFe.jpg)
 
 </div>
 
@@ -43,7 +43,7 @@
 
 | Halaman Utama | Manajemen Link |
 |:---:|:---:|:---:|
-|![Home](https://imgur.com/u59XzFe)|![Management](hhttps://imgur.com/LWe8vq6)|
+|![Home](https://imgur.com/u59XzFe.jpg)|![Management](https://imgur.com/LWe8vq6,jpg)|
 
 </details>
 
