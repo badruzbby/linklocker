@@ -1,0 +1,33 @@
+{
+  "name": "dl3",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "next": "15.2.4",
+    "ethers": "^5.7.2",
+    "wagmi": "^0.12.0",
+    "@web3modal/ethereum": "^2.4.1",
+    "@web3modal/react": "^2.4.1",
+    "web3modal": "^1.9.12",
+    "ipfs-http-client": "^56.0.2",
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@tailwindcss/postcss": "^4",
+    "tailwindcss": "^4",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24"
+  }
+}
