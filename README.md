@@ -77,11 +77,11 @@ LinkLocker menawarkan **tiga tingkat visibilitas** untuk link Anda:
 
 <div align="center">
 
-[![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=next.js)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![Ethers.js](https://img.shields.io/badge/Ethers.js-5.7-2535a0?style=flat-square&logo=ethereum)](https://docs.ethers.io/)
 [![Web3Modal](https://img.shields.io/badge/Web3Modal-Latest-21325b?style=flat-square&logo=ethereum)](https://web3modal.com/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-Latest-38B2AC?style=flat-square&logo=tailwind-css)](https://tailwindcss.com/)
 [![IPFS](https://img.shields.io/badge/IPFS-HTTP_API-65C2CB?style=flat-square&logo=ipfs)](https://ipfs.io/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-007ACC?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![Solidity](https://img.shields.io/badge/Solidity-0.8-363636?style=flat-square&logo=solidity)](https://soliditylang.org/)
