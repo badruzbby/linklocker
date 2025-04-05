@@ -15,7 +15,7 @@
 
 [Fitur](#-fitur) • [Demo](#-demo) • [Teknologi](#-teknologi) • [Instalasi](#-instalasi) • [Penggunaan](#-penggunaan) • [Kontribusi](#-kontribusi) • [Lisensi](#-lisensi)
 
-![LinkLocker DApp Screenshot]<img src="https://imgur.com/u59XzFe" alt="LinkLocker DApp Screenshot" width="800px" />
+![LinkLocker DApp Screenshot](https://imgur.com/u59XzFe)
 
 </div>
 
